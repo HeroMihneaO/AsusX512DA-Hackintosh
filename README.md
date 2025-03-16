@@ -1,5 +1,6 @@
 # AsusX512DA-Hackintosh
 This is a efi made for my Asus X512DA laptop
+![macOS](https://github.com/HeroMihneaO/AsusX512DA-Hackintosh/blob/main/Screenshot%202025-03-16%20at%2012.42.56%E2%80%AFPM.png)
 # Specifications
 **CPU: AMD Ryzen 5 3500u**\
 **iGPU: AMD Vega 8**\
