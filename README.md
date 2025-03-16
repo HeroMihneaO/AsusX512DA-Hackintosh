@@ -16,13 +16,16 @@ This is a efi made for my Asus X512DA laptop
 **-usb ports(kinda)**\
 # What's not woking
 **-Brightness(Nooted Red issue)**\
-**-Bluetooth(Will be fixed)**
+**-Bluetooth(Will be fixed)**\
+**-Webcam(too lazy to fix and idc)**
+**-Microphone(AppleALC issue)**
 # Bugs
-**-Wake/sleep not working correctly yet**\
+**-Wake/sleep not working correctly yet**
 # Untested
 **-Hdmi**\
 **-Hdmi audio**\
-**-3.5mm jack**
+**-3.5mm jack**\
+**All USB ports(if they aren't working I will fix the usb map)**
 # Installation Guide
 Get your own SMBIOS, download your desired macOS version (I reccomend anything older than Sonoma because Nooted Red doesn't play nicely). After installing macOS add Nooted Red for graphics acceleration and done
 # Tip for Sonoma and newer
